@@ -5,5 +5,3 @@ function yikes(newYaml, oldYaml, cb) {
 }
 
 yikes('', '', (str) => console.log(str))
-
-
