@@ -1,6 +1,6 @@
 {
   "name": "yikes",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A light, incremental YAML parser that supports the same types as JSON ( JSON Schema of YAML )",
   "main": "index.js",
   "scripts": {
