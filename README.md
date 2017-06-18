@@ -11,3 +11,5 @@ Moreover, we're cool people. And we want to convert that into an [ImmutableJS](h
 So the idea is to make an AST parser, that is evented - spitting out incremental changes.
 
 ## TODO: Get an example
+
+### PS: Lots of early releases, were just me testing npm hooks API. Built a simple slack webhook, and needed raw data. :D
